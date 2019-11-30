@@ -8,6 +8,9 @@ Environment:
 - Pandas
 - Numpy
 - Matplotlib
+- sklearn
 - xgboost
 
-Required packages: numpy, pandas, sklearn.model_selection, sklearn.preprocessing, sklearn.linear_mode, sklearn.metrics, xgboost, math,
+
+
+You can put the train set and test set to the root directory and run the code in jupyter notebook/lab.
